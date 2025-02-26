@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\study_project\\VideoPlay\\VideoPlay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D088005-3596-491E-B783-30F1FADA50F6}|VideoPlay\\VideoPlay.vcxproj|F:\\study_project\\VideoPlay\\VideoPlay\\VideoPlay\\VideoPlay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D088005-3596-491E-B783-30F1FADA50F6}|VideoPlay\\VideoPlay.vcxproj|solutionrelative:VideoPlay\\VideoPlay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 151,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoPlay.cpp",
+              "DocumentMoniker": "F:\\study_project\\VideoPlay\\VideoPlay\\VideoPlay\\VideoPlay.cpp",
+              "RelativeDocumentMoniker": "VideoPlay\\VideoPlay.cpp",
+              "ToolTip": "F:\\study_project\\VideoPlay\\VideoPlay\\VideoPlay\\VideoPlay.cpp",
+              "RelativeToolTip": "VideoPlay\\VideoPlay.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-26T12:47:12.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
