@@ -1,0 +1,7 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/VideoPlay/.vs/VideoPlay
+/VideoPlay/VideoPlay/x64/Debug
+/VideoPlay/VideoPlay/Debug
